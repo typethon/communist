@@ -1,6 +1,6 @@
 # 《共产党宣言》  
 
-　　  [(05/01/2019)：一个幽灵，共产主义的幽灵，在欧洲游荡。](https://github.com/typethon/communist/blob/master/timeline/20190501.md)
+　　  [(05/01/2019)：一个幽灵，共产主义的幽灵，在欧洲游荡。](https://github.com/typethon/communist/blob/master/timeline/20190501%EF%BC%9A%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%9A%84%E5%B9%BD%E7%81%B5%EF%BC%8C%E5%9C%A8%E6%AC%A7%E6%B4%B2%E6%B8%B8%E8%8D%A1.md)
   为了对这个幽灵进行神圣的围剿，旧欧洲的一切势力，教皇和沙皇、梅特涅和基佐、法国的激进派和德国的警察，都联合起来了。  
   
 　有哪一个反对党不被它的当政的敌人骂为共产党呢？又有哪一个反对党不拿共产主义这个罪名去回敬更进步的反对党人和自己的反动敌人呢？  
