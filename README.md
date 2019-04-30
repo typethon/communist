@@ -5,6 +5,6 @@
 
 数月以来，一批马克思主义者在社会主义国家被消失了，我们重拾《共产党宣言》，相遇五四新青年的信念：成为马克思主义者。以打卡的形式，共读《共产党宣言》：为马克思主义者们早日得自由，砸碎锁链。     
 
-Sever months ago, a group of Marxists have been disappeared in the socialist country. We intend to repeat the "Communist Manifesto" and meet the belief of the May 4th Movement: becoming a Marxist. In the form of clocking, We read the Communist Manifesto, for the Marxists to be free and smashing the chains at an early date.
+Sever months ago, a group of Marxists have been disappeared in the socialist country.For the Marxists to be free and smashing the chains at an early date. We intend to repeat the "Communist Manifesto" and meet the belief of the May 4th Movement: becoming a Marxist. In the form of clocking.
 
 * [共读全文进度表](https://github.com/typethon/communist/blob/master/%E5%85%B1%E8%AF%BB%E8%BF%9B%E5%BA%A6%E8%A1%A8%20schedule.md)
