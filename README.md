@@ -7,5 +7,7 @@
 
 Sever months ago, a group of Marxists have been disappeared in the socialist country.For freeing them and becoming a  Marxist at an early date, we intend to jointly read the "Communist Manifesto" day by day,under the belief of the May 4th Movement. 
 
+`2019年5月4日`
+
 * [共读全文进度表](https://github.com/typethon/communist/blob/master/%E5%85%B1%E8%AF%BB%E8%BF%9B%E5%BA%A6%E8%A1%A8%20schedule.md)
  
